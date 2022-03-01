@@ -1,0 +1,16 @@
+[user]
+	name = geric
+	email = grencarnacion@gmail.com
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[push]
+	default = simple
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false
+[alias]
+	s = status
+	cam = commit -am
