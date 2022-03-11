@@ -1,0 +1,26 @@
+{
+  "editor.codeActionsOnSave": {
+    //"source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.editor.pinnedTabSizing": "shrink",
+  "workbench.editor.tabSizing": "shrink",
+  "explorer.autoReveal": false,
+  "workbench.editor.wrapTabs": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "**/yarn.lock": true
+  }
+}
